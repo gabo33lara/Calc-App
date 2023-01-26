@@ -18,7 +18,7 @@ function App() {
     if(input) {
       const result = evaluate(input);
       const songUrl = 'https://www.youtube.com/watch?v=jzy2dgEUOhY';
-      const renderScreen = evaluate(input) === Infinity ? <a href={songUrl} target="_blank">Listen changa song</a> : result;
+      const renderScreen = evaluate(input) === Infinity ? <a href={songUrl}>Listen changa song</a> : result;
       setInput(renderScreen);
     } else {
       alert('Select values to calculate first!');
