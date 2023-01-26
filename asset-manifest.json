@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/gabo33lara/Calc-App/static/css/main.a4d206a2.css",
-    "main.js": "/gabo33lara/Calc-App/static/js/main.09914222.js",
+    "main.js": "/gabo33lara/Calc-App/static/js/main.3d98477c.js",
     "static/js/787.97c71ab1.chunk.js": "/gabo33lara/Calc-App/static/js/787.97c71ab1.chunk.js",
     "static/media/FreeCodeCamp-logo.png": "/gabo33lara/Calc-App/static/media/FreeCodeCamp-logo.ed7be88fd79dafc8f34c.png",
     "index.html": "/gabo33lara/Calc-App/index.html",
     "main.a4d206a2.css.map": "/gabo33lara/Calc-App/static/css/main.a4d206a2.css.map",
-    "main.09914222.js.map": "/gabo33lara/Calc-App/static/js/main.09914222.js.map",
+    "main.3d98477c.js.map": "/gabo33lara/Calc-App/static/js/main.3d98477c.js.map",
     "787.97c71ab1.chunk.js.map": "/gabo33lara/Calc-App/static/js/787.97c71ab1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4d206a2.css",
-    "static/js/main.09914222.js"
+    "static/js/main.3d98477c.js"
   ]
 }
